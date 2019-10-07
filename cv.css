@@ -1,0 +1,78 @@
+.page{
+    width : 780px;
+    margin : auto;
+    font-size:16px;
+    font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+p.menu{
+    width : 780px;
+    margin : auto;
+    font-size:16px;
+    font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+    background-color: #3388BB;
+    color: white;
+    display: block;
+    padding: 8px;
+    text-align: center;
+}
+p.presentation{
+    float : left;
+}
+.info{
+    width : 780px;
+    margin : auto;
+    font-size:16px;
+    font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+    float : left;
+}
+img.photo{
+    float: right;
+    width: 200px;
+    height: 230px;
+}
+.formation{
+    width : 780px;
+    margin : auto;
+    font-size:16px;
+    font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+    float : left;
+}
+.experience{
+    width : 780px;
+    margin : auto;
+    font-size:16px;
+    font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+    float : left;
+}
+.languescomp{
+    width : 780px;
+    margin : auto;
+    font-size:16px;
+    font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+    float : left;
+}
+.interet{
+    width : 780px;
+    margin : auto;
+    font-size:16px;
+    font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+    float : left;
+}
+img.cheval{
+    float: right;
+    width: 200px;
+    height: 150px;
+}
+strong{
+    font-size : 26px;
+}
+h2{
+    font-size:28px;
+    color : #3388BB;
+    text-transform:uppercase;
+    border-bottom:3 px solid #3388DD;
+}
+.titre{
+    font-weight : bold;
+    font-size : 20px;
+}
